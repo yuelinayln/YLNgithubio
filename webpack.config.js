@@ -7,7 +7,7 @@ module.exports = {
   // where to place the compiled bundle
   output: {
     path: './static',
-    publicPath: '/static/',
+    publicPath: './',
     filename: 'build.js'
   },
   module: {
